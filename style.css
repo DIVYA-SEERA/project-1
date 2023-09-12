@@ -1,0 +1,33 @@
+.nav-link{
+    color: white;
+}
+
+.d-block{
+  height:450px;
+  filter: brightness(70%);
+}
+.box1{
+    height: 190px;
+    margin-top: 20px;
+}
+
+
+.row2{
+    align-content: space-evenly;
+    text-align: center;
+
+}
+.img-fluid{
+    height: 40px;
+    width: 40px; 
+}
+
+.box3{
+    justify-content:space-evenly;
+
+}
+.box4{
+    height: 450px;
+    background-color: rgb(223, 217, 217);
+    justify-content: space-around;
+}
